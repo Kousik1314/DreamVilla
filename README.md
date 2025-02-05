@@ -30,7 +30,9 @@ DreamVilla is a real estate platform where users can buy, sell, and rent houses 
 - Integrate a database for dynamic listings.
 
 ## Screenshots
-(Include screenshots of the webpage here for better visualization.)
+![Opera Snapshot_2025-02-05_095554_index html](https://github.com/user-attachments/assets/2f248e84-3db1-42ba-8df7-517698efa44a)
+![Opera Snapshot_2025-02-05_095504_index html](https://github.com/user-attachments/assets/6971312f-69df-465b-9bd6-fd5ff9d47bcc)
+
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
