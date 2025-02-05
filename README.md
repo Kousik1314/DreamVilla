@@ -2,6 +2,8 @@
 
 DreamVilla is a real estate platform where users can buy, sell, and rent houses in various locations. The project is designed with a user-friendly interface and an elegant, responsive layout to ensure a seamless browsing experience.
 
+## Live: https://kousik1314.github.io/DreamVilla/
+
 ## Features
 - **Property Listings** – Users can browse available properties for sale, rent, or purchase.
 - **User Interaction** – A "Contact Us" section for inquiries.
